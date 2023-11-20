@@ -1,0 +1,5 @@
+LIBRARY "CannyEdgeDetectionAsm"
+EXPORTS
+gradMagnitude
+hysteresisThresholding
+cannyEdgeDetection

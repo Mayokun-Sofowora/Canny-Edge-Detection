@@ -1,0 +1,4 @@
+C:\Users\mayor\source\repos\CannyEdge\CannyEdgeDetection\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mayor\source\repos\CannyEdge\CannyEdgeDetection\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mayor\source\repos\CannyEdge\CannyEdgeDetection\obj\Debug\net8.0-windows\CannyEdgeDetection_MarkupCompile.cache
+C:\Users\mayor\source\repos\CannyEdge\CannyEdgeDetection\obj\Debug\net8.0-windows\CannyEdgeDetection_MarkupCompile.lref

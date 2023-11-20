@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CannyEdgeDetection": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
