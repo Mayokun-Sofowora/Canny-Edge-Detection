@@ -2,4 +2,5 @@ LIBRARY "CannyEdgeDetectionAsm"
 EXPORTS
 gradMagnitude
 hysteresisThresholding
+nonMaximumSuppression
 cannyEdgeDetection
